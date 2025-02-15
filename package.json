@@ -1,7 +1,7 @@
 {
   "name": "birthday-wish",
   "version": "0.1.0",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/birthday-wish",
+  "homepage": "https://thexvisionprogrammer.github.io/birthday-wish",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
